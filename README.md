@@ -2,7 +2,7 @@
 
 **Version:** 0.1 Beta
 
-JSONScript is a simple format for defining a sequence of steps to be executed by a Node.js application. Each step can include commands to be executed in the terminal, creation of files, and optional comments for documentation.
+JSONScript is a simple format for defining a sequence of steps to be executed by an application. Each step can include commands to be executed in the terminal, creation of files, and optional comments for documentation.
 
 ## Structure
 
